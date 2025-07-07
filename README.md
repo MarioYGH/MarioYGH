@@ -64,7 +64,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarioYGH&show_icons=true&theme=tokyonight&count_private=true" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioYGH&layout=compact&theme=tokyonight" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioYGH&layout=compact&langs_count=8&exclude_repo=repo1,repo2&hide=html,jupyter%20notebook&theme=tokyonight" height="200px" />
 </p>
 
 ---
