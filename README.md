@@ -11,9 +11,9 @@
 ## 🧠 Sobre mí
 
 🎓 Egresado de la carrera de **Tecnología** en la **UNAM, campus Juriquilla**  
-🤖 Actualmente trabajo como **Desarrollador de IA Jr.** en el proyecto **Querétaro Digital**, impulsado por el **Gobierno del Estado de Querétaro**  
+🤖 Actualmente trabajo como **Desarrollador de IA.** en el proyecto **Querétaro Digital**, impulsado por el **Gobierno del Estado de Querétaro**  
 🏆 Ganador 1er lugar del **3er Hackathon de Querétaro Digital**  
-🔬 Colaboro desde hace más de **3 años** en el **CFATA (Centro de Física Aplicada y Tecnología Avanzada)** de la UNAM  
+🔬 Colaboro desde hace más de **4 años** en el **CFATA (Centro de Física Aplicada y Tecnología Avanzada)** de la UNAM  
 🧰 Me especializo en programación de bajo y alto nivel, procesamiento de señales, sistemas embebidos, automatización, y diseño electrónico  
 
 ---
