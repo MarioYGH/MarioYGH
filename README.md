@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=6E40C9&size=25&center=true&vCenter=true&width=800&height=50&lines=Desarrollador+de+IA+Jr.+en+Querétaro+Digital;Tecnólogo+por+la+UNAM-Juriquilla;Ganador+del+Hackathon+Querétaro+Digital;Apasionado+por+la+innovación+y+la+IA;Miembro+del+CFATA+UNAM+desde+hace+3+años" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=6E40C9&size=25&center=true&vCenter=true&width=800&height=50&lines=Desarrollador+de+IA+en+Querétaro+Digital;Tecnólogo+por+la+UNAM-Juriquilla;Ganador+del+Hackathon+Querétaro+Digital;Apasionado+por+la+innovación+y+la+IA;Miembro+del+CFATA+UNAM+desde+hace+4+años" />
   </a>
 </p>
 
